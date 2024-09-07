@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityannair007
 - 👀 I’m interested in looking around and learning
-- 🌱 I’m currently learning java, c++ 
+- 🌱 I’m currently learning java, javascript, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
