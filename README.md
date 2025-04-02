@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityannair007
+- 👋 Hi, I’m Adityan Nair
 - 👀 I’m interested in looking around and learning
 - 🌱 I’m currently learning java, javascript, python
 <!---
